@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mhGqS1WEjyam7H4dWFayvSGYbqD3EIkHoM9qW+dJtWpeT/csu25IUqA2WxSfhcoWiz+8V5Ep9Pomui326c4wjw==",
+  "success": true,
+  "projectFilePath": "/home/sistemas/Documents/Scripts/SimpleLinearRegresion/SimpleLinearRegresion.csproj",
+  "expectedPackageFiles": [
+    "/home/sistemas/.nuget/packages/microsoft.net.illink.tasks/8.0.10/microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "/home/sistemas/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.10/microsoft.netcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "/home/sistemas/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.10/microsoft.aspnetcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "/home/sistemas/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.10/microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

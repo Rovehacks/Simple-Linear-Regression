@@ -1,0 +1,2 @@
+/home/sistemas/Documents/Scripts/SimpleLinearRegresion/bin/Release/net8.0/linux-x64/publish/SimpleLinearRegresion.pdb
+/home/sistemas/Documents/Scripts/SimpleLinearRegresion/bin/Release/net8.0/linux-x64/publish/SimpleLinearRegresion
