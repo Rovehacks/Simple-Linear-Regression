@@ -16,10 +16,10 @@ A partir del modelo matemático de análisis predictivo Simple Linear Regression
 ## Hands-on 2: Specs
 
 ### Entradas de la aplicación:
-- Un conjunto de observaciones o dataset: (x_1,y_1),(x_2,y_2),...,(x_n,y_n)
+- Un conjunto de observaciones o dataset: $(x_1,y_1),(x_2,y_2),...,(x_n,y_n)$
 - El dataset estará hardcoded (declarado a través de un constructor).
 - No se capturan valores por predecir; se inyectan a través de la terminal (Command Prompt) al ejecutar la clase main.
 
 ### Salidas de la aplicación:
-- Imprimir la ecuación de regresión: y = b0 + b1x1 reemplazando los valores óptimos, calculados, para los parámetros Beta.
+- Imprimir la ecuación de regresión: y = $b_0 + b_1 x_1$ reemplazando los valores óptimos, calculados, para los parámetros Beta.
 - Inyectar valores, por predecir, a través del intérprete de comandos.
